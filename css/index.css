@@ -125,6 +125,12 @@ input:focus, textarea:focus{
     margin: 10px auto;
 }
 
+div.icono{
+    position: absolute;
+    top: 0%;
+    left: 0%;
+}
+
 @keyframes animacion{
     0%, 16.667%, 100%{
         opacity: 1;
